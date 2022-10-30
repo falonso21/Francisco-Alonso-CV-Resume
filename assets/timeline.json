@@ -1,0 +1,130 @@
+{
+   "events":[
+      {
+         "start_date":{
+            "year":"2014",
+            "month":"9"
+         },
+         "media":{
+            "url":"https://seeklogo.com/images/U/UCA-logo-C7BB201A42-seeklogo.com.png",
+            "credit":"Maths UCA"
+         },
+         "text":{
+            "headline":"Bachelor's Degree",
+            "text":"This was the time I started my studies in Mathematics at Cadiz University. A five years journey to become mathematician had commenced."
+         }
+      },
+      {
+         "start_date":{
+            "year":"2018",
+            "month":"2"
+         },
+         "media":{
+            "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Escudo_de_la_Universidad_Complutense_de_Madrid.svg/1200px-Escudo_de_la_Universidad_Complutense_de_Madrid.svg.png",
+            "credit":"Data Analysis Training"
+         },
+         "text":{
+            "headline":"My Introduction to Data Science",
+            "text":"Once I gained some experience in Applied Maths I started to feel curious about Data Analysis and Data Science. Therefore, in parallel with my bachelor, I decided to start a training in that field based in Python and R."
+         }
+      },
+     {
+         "start_date":{
+            "year":"2018",
+            "month":"9"
+         },
+         "media":{
+            "url":"https://upload.wikimedia.org/wikipedia/en/thumb/0/09/University_College_Cork_logo.svg/1200px-University_College_Cork_logo.svg.png",
+            "credit":"Erasmus"
+         },
+         "text":{
+            "headline":"Erasmus",
+            "text":"I decided to go abroad for my last year of studies. Definitely Cork was the perfect place, there I improved my English, met amazing teachers to boost my career and, of course, I got a lot of Erasmus fun."
+         }
+      },
+      {
+         "start_date":{
+            "year":"2019",
+            "month":"10"
+         },
+         "media":{
+            "url":"https://aseafi.es/wp-content/uploads/2021/07/Afi-Escuela-300x122-1.png",
+            "credit":"Master"
+         },
+         "text":{
+            "headline":"Master in Data Science and Big Data",
+            "text":"Back in Spain after the Irish experience and already with the Bachelor's diploma in my pocket, I decided that Data was my thing. So, I moved to Madrid to start my Master's Studies in Data Science and Big Data at Afi Escuela de Finanzas."
+         }
+      },
+      {
+         "start_date":{
+            "year":"2019",
+            "month":"10"
+         },
+         "media":{
+            "url":"https://www.futurespace.es/wp-content/uploads/2019/10/Logo_Future_Space.png",
+            "credit":"Future Space"
+         },
+         "text":{
+            "headline":"Future Space Internship",
+            "text":"At the same time I was started my Master's studies I started as well an intership at Future Space so I could apply the knowledge and start my career getting involved in Data Science projects."
+         }
+      },
+      {
+         "start_date":{
+            "year":"2020",
+            "month":"7"
+         },
+         "media":{
+            "url":"https://www.futurespace.es/wp-content/uploads/2019/10/Logo_Future_Space.png",
+            "credit":"Future Space"
+         },
+         "text":{
+            "headline":"Future Space Data Scientist",
+            "text":"Once I finished my Master's Studies, also my internship came to it's end. The company was happy with my work there, so they offered me a position as Data Scientist."
+         }
+      },
+      {
+         "start_date":{
+            "year":"2021",
+            "month":"1"
+         },
+         "media":{
+            "url":"https://media-exp1.licdn.com/dms/image/C4D0BAQEjedgIlBAslw/company-logo_200_200/0/1637772678754?e=2147483647&v=beta&t=bAyTgn7R6n_HMtDzmBzaycfZudtI52Y_Xo54VqjWH4c",
+            "credit":"UCA Talks"
+         },
+         "text":{
+            "headline":"UCA Talks",
+            "text":"Some people at my former university were aware that my Master's thesis was based in a Data Science project about hiring processes. They felt interesting so they contacted me to give an annual talk about AI in Human Resources in two of their Masters."
+         }
+      },
+      {
+         "start_date":{
+            "year":"2021",
+            "month":"3"
+         },
+         "media":{
+            "url":"https://seekvectorlogo.com/wp-content/uploads/2022/02/coursera-vector-logo-2022-small.png",
+            "credit":"Coursera Training"
+         },
+         "text":{
+            "headline":"Coursera Deep Learning Training",
+            "text":"In order to continue boosting my career in the Data Science world, I got a training in Deep Learning, given by Andrew Ng."
+         }
+      },
+      {
+         "start_date":{
+            "year":"2021",
+            "month":"10"
+         },
+         "media":{
+            "url":"https://st2.depositphotos.com/1364916/11538/v/600/depositphotos_115380224-stock-illustration-eiffel-tower-paris-france-logo.jpg",
+            "credit":"Paris"
+         },
+         "text":{
+            "headline":"Project in Paris",
+            "text":"After two years performing as Data Scientist in Future Space and living in Madrid, the company offered me to work in an international project which implies moving to Paris, France."
+         }
+      }
+   ]
+}
